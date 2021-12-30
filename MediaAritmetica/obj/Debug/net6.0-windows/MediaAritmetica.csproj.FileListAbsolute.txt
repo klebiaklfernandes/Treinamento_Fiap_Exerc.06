@@ -1,0 +1,17 @@
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\bin\Debug\net6.0-windows\MediaAritmetica.exe
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\bin\Debug\net6.0-windows\MediaAritmetica.deps.json
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\bin\Debug\net6.0-windows\MediaAritmetica.runtimeconfig.json
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\bin\Debug\net6.0-windows\MediaAritmetica.dll
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\bin\Debug\net6.0-windows\ref\MediaAritmetica.dll
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\bin\Debug\net6.0-windows\MediaAritmetica.pdb
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.csproj.AssemblyReference.cache
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.Form1.resources
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.csproj.GenerateResource.cache
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.AssemblyInfoInputs.cache
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.AssemblyInfo.cs
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.dll
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\ref\MediaAritmetica.dll
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.pdb
+C:\AulaFiap\MediaAritmetica\MediaAritmetica\obj\Debug\net6.0-windows\MediaAritmetica.genruntimeconfig.cache
